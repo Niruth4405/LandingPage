@@ -11,7 +11,7 @@ function Cards() {
           <img
             className="w-20 mx-auto mt-[-3rem] bg-white"
             src={Single}
-            alt="single "
+            alt="singl "
           />
           <h2 className="text-2xl font-bold text-center py-8">Single User</h2>
           <p className="text-center text-4xl font-bold">$149</p>
